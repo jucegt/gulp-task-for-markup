@@ -1,7 +1,7 @@
 {
-  "name": "reload-gym-template",
+  "name": "name",
   "version": "0.0.1",
-  "description": "HTML Template for GYM",
+  "description": "description",
   "main": "index.js",
   "scripts": {
     "dev": ""
@@ -15,11 +15,11 @@
     "template",
     "gym"
   ],
-  "author": "Julio Palencia <contact@juliopalencia.me>",
+  "author": "jucegt <contact@juliopalencia.me>",
   "bugs": {
-    "url": "https://github.com/jucegt/reload-gym-template/issues"
+    "url": "git@github.com:jucegt/gulp-task-for-markup.git"
   },
-  "homepage": "https://github.com/jucegt/reload-gym-template#readme",
+  "homepage": "https://github.com/jucegt/gulp-task-for-markup#readme",
   "devDependencies": {
     "@types/browser-sync": "2.26.2",
     "@types/cssnano": "4.0.1",
