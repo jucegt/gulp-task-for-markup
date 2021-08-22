@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jucegt/reload-gym-template.git"
+    "url": "git@github.com:jucegt/gulp-task-for-markup.git"
   },
   "keywords": [
     "html",
@@ -17,7 +17,7 @@
   ],
   "author": "jucegt <contact@juliopalencia.me>",
   "bugs": {
-    "url": "git@github.com:jucegt/gulp-task-for-markup.git"
+    "url": "https://github.com/jucegt/gulp-task-for-markup/issues"
   },
   "homepage": "https://github.com/jucegt/gulp-task-for-markup#readme",
   "devDependencies": {
