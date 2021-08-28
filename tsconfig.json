@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "baseUrl": "./src",
-    "paths": {},
     "allowJs": true,
     "alwaysStrict": true,
     "esModuleInterop": true,
@@ -13,5 +12,5 @@
     "target": "es5"
   },
   "exclude": ["node_modules"],
-  "include": ["**/*.ts", "**/*.tsx"]
+  "include": ["**/*.ts"]
 }
