@@ -1,0 +1,52 @@
+{
+  "name": "gulp-task-form-markup",
+  "version": "0.0.1",
+  "description": "Simple tasks with gulp for generating SCSS, TS and something else.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jucegt/gulp-task-for-markup.git"
+  },
+  "keywords": [
+    "html",
+    "template",
+    "gym"
+  ],
+  "author": "jucegt <contact@juliopalencia.me>",
+  "bugs": {
+    "url": "https://github.com/jucegt/gulp-task-for-markup/issues"
+  },
+  "homepage": "https://github.com/jucegt/gulp-task-for-markup#readme",
+  "devDependencies": {
+    "@types/browser-sync": "2.26.2",
+    "@types/cssnano": "4.0.1",
+    "@types/gulp": "4.0.9",
+    "@types/gulp-dart-sass": "1.0.1",
+    "@types/gulp-postcss": "8.0.1",
+    "@types/gulp-rename": "2.0.1",
+    "@types/gulp-sourcemaps": "0.0.35",
+    "@types/gulp-uglify": "3.0.7",
+    "@types/yargs": "^17.0.2",
+    "ansi-colors": "4.1.1",
+    "autoprefixer": "10.3.1",
+    "browser-sync": "2.27.5",
+    "cssnano": "5.0.8",
+    "gulp": "4.0.2",
+    "gulp-dart-sass": "1.0.2",
+    "gulp-postcss": "9.0.0",
+    "gulp-rename": "2.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sourcemaps": "3.0.0",
+    "gulp-typescript": "6.0.0-alpha.1",
+    "gulp-uglify": "3.0.2",
+    "postcss": "8.3.6",
+    "ts-node": "10.2.1",
+    "typescript": "4.3.5",
+    "yargs": "^17.1.1"
+  },
+  "dependencies": {}
+}
